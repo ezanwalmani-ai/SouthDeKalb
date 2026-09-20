@@ -1,0 +1,6 @@
+{
+  "name": "South DeKalb Towing & Transport",
+  "description": "Professional towing, vehicle transport and storage services in Lithonia and the surrounding South DeKalb area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
